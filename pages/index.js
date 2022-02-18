@@ -9,7 +9,7 @@ function HomePage(props) {
   return (
     <Fragment>
       <Head>
-        <title>Peyne's Blog</title>
+        <title>Ivan Galvez Dancer</title>
         <meta
           name="description"
           content="I post about programming and web development."

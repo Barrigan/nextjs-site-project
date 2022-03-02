@@ -21,7 +21,7 @@ At the age of 14 he began to train at the Higher School of Performing Arts in Ma
 
 ## File-based Routing
 
-![Create routes via your file + folder structure](/images/posts/learn-salsa-with-ivan-galvez/group-salsa-classes-with-ivan-galvez.jpg)
+![Create routes via your file + folder structure](/images/posts/learn-salsa-with-ivan-galvez/group-salsa-classes-with-ivan-galvez.webp)
 
 Timetable
 Date

@@ -8,13 +8,13 @@ function Hero() {
       <div className={classess.image}>
         <Image
           src="/images/site/ivan-galvez.jpg"
-          alt="An image showing mi culo"
+          alt="Iván Gálvez Dancer"
           width={300}
           height={300}
         />
       </div>
-      <h1>Hi, I'm your biatch dance instructor</h1>
-      <p>I am an expendable. For the right price I'll do anything for you ;*</p>
+      <h1>Hi, I'm a professional Dance instructor</h1>
+      <p>Available for performances and group &amp; private dance classes.</p>
     </section>
   );
 }

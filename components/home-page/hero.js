@@ -7,14 +7,17 @@ function Hero() {
     <section className={classess.hero}>
       <div className={classess.image}>
         <Image
-          src="/images/site/ivan-galvez.jpg"
-          alt="Iván Gálvez Dancer"
-          width={300}
+          src="/images/site/tlp-logo.webp"
+          alt="The Latin Passion"
+          width={822}
           height={300}
         />
       </div>
-      <h1>Hi, I'm a professional Dance instructor</h1>
-      <p>Available for performances and group &amp; private dance classes.</p>
+      <h1>Exciting Afro-Latin dance events &amp; classes</h1>
+      <p>
+        Learn about our Bachata, Salsa &amp; Kizomba events and classes in
+        London, Brighton, UK and world!
+      </p>
     </section>
   );
 }

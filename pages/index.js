@@ -9,8 +9,11 @@ function HomePage(props) {
   return (
     <Fragment>
       <Head>
-        <title>Ivan Galvez Dancer</title>
-        <meta name="description" content="I am a Latin dance instructor." />
+        <title>The Latin passion Dance Entertainment</title>
+        <meta
+          name="description"
+          content="Dance School and Entertainment. Bachata, Salsa, Kizomba and more..."
+        />
       </Head>
       <Hero />
       <FeaturedPosts posts={props.posts} />

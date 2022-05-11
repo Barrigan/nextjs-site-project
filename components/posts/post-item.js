@@ -4,6 +4,19 @@ import classes from "./post-item.module.css";
 
 function PostItem(props) {
   const { title, image, excerpt, date, slug } = props.post;
+  /*
+  All the other fields:
+  ## EVENT DESCRIPTION
+  ## TIMETABLE
+  ## INTERESTING IMAGE
+  ## PRICE
+  ## OPENING DATES
+  ## ENTRANCE & DRESS CODE
+  ## ADDRESS
+  ## RELATED LINKS
+  ## CONTACT DETAILS
+  ## YOU MAY ALSO LIKE TO CHECK THIS
+  */
 
   const formattedDate = new Date(date).toLocaleDateString("en-UK", {
     day: "numeric",

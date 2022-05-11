@@ -18,6 +18,7 @@ function Hero() {
         Learn about our Bachata, Salsa &amp; Kizomba events and classes in
         London, Brighton, UK and world!
       </p>
+      <h2>Please, scroll down...</h2>
     </section>
   );
 }
